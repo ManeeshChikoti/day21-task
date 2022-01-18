@@ -1,0 +1,14 @@
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 50vh;
+    color: royalblue;
+    text-shadow :3px 3px black;
+}
+
+body{
+    background: linear-gradient(180deg,orange,white,green);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
